@@ -234,7 +234,7 @@ logo =(f"""
 ║\33[0;41m        [ WORKING ONLY MOBILE DATA ]         \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mWASIM-BRO ]\33[1;38m    ║\033[1;31m 
+╠══[Author                   • \33[1;38mDEVIL-KING ]\33[1;38m    ║\033[1;31m 
 ╠══[Facebook                 • WASIM360       ║  \033[1;97m  
 ╠══[Github                   • \33[1;38mwasimmoulik008 ║\33[1;34m   
 ╠══[Whatsapp                 • 01*********    ║\33[1;35m 
@@ -260,7 +260,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/wasimmoulik008/File/blob/main/Aptoval.txt').text
+    httpCaht = requests.get('https://github.com/SB-BILLAL/Approve.txt-/blob/main/Aptoval.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -305,7 +305,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'WASIM' and password == '551144':
+    if username == 'A' and password == '1':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
